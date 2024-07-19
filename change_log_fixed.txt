@@ -1,0 +1,825 @@
+Row 0 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to Tidwell Rd.)): Original: 212295_211896, Changed: 210328_212529
+Row 0 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to Tidwell Rd.)): Original: 212138_212112, Changed: 212529_212295
+Row 0 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to Tidwell Rd.)): Original: 211896_212138, Changed: 212295_211896
+Row 0 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to Tidwell Rd.)): Original: 212529_212295, Changed: 211896_212138
+Row 0 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to Tidwell Rd.)): Original: 210328_212529, Changed: 212138_212112
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 212490_210308, Changed: 212502_212503
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 210308_212199, Changed: 212108_212473
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 212108_212473, Changed: 212473_476814
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 212502_212503, Changed: 212490_210308
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 212199_242502, Changed: 210308_212199
+Row 1 (Segment: BW-8 - W. Sam Houston Tollway NB (IH-10 to US 290)): Original: 212473_476814, Changed: 212199_242502
+Row 2 (Segment: BW-8 - W. Sam Houston Tollway NB (SH-225 to IH-10)): Original: 212235_211886, Changed: 214051_212172
+Row 2 (Segment: BW-8 - W. Sam Houston Tollway NB (SH-225 to IH-10)): Original: 214051_212172, Changed: 212172_212235
+Row 2 (Segment: BW-8 - W. Sam Houston Tollway NB (SH-225 to IH-10)): Original: 212172_212235, Changed: 212235_211886
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212347_210320, Changed: 212531_212347
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212131_210323, Changed: 212347_210320
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212294_210575, Changed: 210320_212570
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212288_212131, Changed: 212570_212294
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 210575_212288, Changed: 212294_210575
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212570_212294, Changed: 210575_212288
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 212531_212347, Changed: 212288_212131
+Row 3 (Segment: BW-8 - W. Sam Houston Tollway NB (Westpark Tollway W. to IH-10)): Original: 210320_212570, Changed: 212131_210323
+Row 4 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to SH-225)): Original: 230304_212665, Changed: 108994_213419
+Row 4 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to SH-225)): Original: 108994_213419, Changed: 213419_230304
+Row 4 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to SH-225)): Original: 213419_230304, Changed: 230304_212665
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 214885_212745, Changed: 214904_214956
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 212745_212772, Changed: 214956_214957
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 213432_213065, Changed: 214957_214885
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 212772_213432, Changed: 214885_212745
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 213065_213455, Changed: 212745_212772
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 214957_214885, Changed: 212772_213432
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 214904_214956, Changed: 213432_213065
+Row 5 (Segment: BW-8 - W. Sam Houston Tollway SB (IH-10 to Westpark Tollway W.)): Original: 214956_214957, Changed: 213065_213455
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 212857_210850, Changed: 213339_212746
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 213339_212746, Changed: 212746_212747
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 212746_212747, Changed: 212747_213559
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 212879_212857, Changed: 213559_212879
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 213559_212879, Changed: 212879_212857
+Row 6 (Segment: BW-8 - W. Sam Houston Tollway SB (Tidwell Rd. to IH-10)): Original: 212747_213559, Changed: 212857_210850
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 476815_212738, Changed: 214793_214843
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 212738_213015, Changed: 212902_476815
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 213273_213207, Changed: 476815_212738
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 213445_213273, Changed: 212738_213015
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 214793_214843, Changed: 213445_213273
+Row 7 (Segment: BW-8 - W. Sam Houston Tollway SB (US 290 to IH-10)): Original: 212902_476815, Changed: 213273_213207
+Row 10 (Segment: Hardy Toll NB (IH-610 to Parker Rd.)): Original: 25017_12365, Changed: 13896_15474
+Row 10 (Segment: Hardy Toll NB (IH-610 to Parker Rd.)): Original: 13896_15474, Changed: 14116_25017
+Row 10 (Segment: Hardy Toll NB (IH-610 to Parker Rd.)): Original: 14116_25017, Changed: 25017_12365
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 79594_13401, Changed: 78588_203826
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 39460_15962, Changed: 203826_21793
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 15962_16108, Changed: 21793_77317
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 80012_21788, Changed: 77317_77316
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 203826_21793, Changed: 77316_303597
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 147595_22312, Changed: 303597_303596
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 282965_39460, Changed: 303596_299193
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 76967_62411, Changed: 299193_79594
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 62411_62450, Changed: 79594_13401
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 21788_76965, Changed: 13401_147594
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 76965_76967, Changed: 147594_147595
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 77317_77316, Changed: 147595_22312
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 21793_77317, Changed: 22312_293412
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 79127_79126, Changed: 293412_293419
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 285252_79127, Changed: 293419_246473
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 247679_79489, Changed: 246473_285252
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 299193_79594, Changed: 285252_79127
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 266409_79681, Changed: 79127_79126
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 307950_80012, Changed: 79126_266414
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 13401_147594, Changed: 266414_266409
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 147594_147595, Changed: 266409_79681
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 78588_203826, Changed: 79681_307950
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 301677_216589, Changed: 307950_80012
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 293419_246473, Changed: 80012_21788
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 216589_247679, Changed: 21788_76965
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 266414_266409, Changed: 76965_76967
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 79126_266414, Changed: 76967_62411
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 79489_282965, Changed: 62411_62450
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 246473_285252, Changed: 62450_301676
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 22312_293412, Changed: 301676_301677
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 293412_293419, Changed: 301677_216589
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 303596_299193, Changed: 216589_247679
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 62450_301676, Changed: 247679_79489
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 301676_301677, Changed: 79489_282965
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 303597_303596, Changed: 282965_39460
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 77316_303597, Changed: 39460_15962
+Row 12 (Segment: Hempstead Rd. NB (IH-610 to BW-8)): Original: 79681_307950, Changed: 15962_16108
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 22312_10629, Changed: 109912_46318
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 76965_21788, Changed: 46318_282965
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 77317_21793, Changed: 282965_79489
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 293412_22312, Changed: 79489_247679
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 109912_46318, Changed: 247679_216589
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 62450_62411, Changed: 216589_301677
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 301676_62450, Changed: 301677_301676
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 21793_75455, Changed: 301676_62450
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 76967_76965, Changed: 62450_62411
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 303597_77316, Changed: 76967_76965
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 77316_77317, Changed: 76965_21788
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79117_78588, Changed: 21788_80012
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 75455_79117, Changed: 80012_307950
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 266414_79126, Changed: 307950_79681
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79126_79127, Changed: 79681_266409
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 282965_79489, Changed: 266409_266414
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 10629_79594, Changed: 266414_79126
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 307950_79681, Changed: 79126_79127
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 21788_80012, Changed: 79127_285252
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 247679_216589, Changed: 285252_246473
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 285252_246473, Changed: 246473_293419
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79489_247679, Changed: 293419_293412
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79681_266409, Changed: 293412_22312
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 266409_266414, Changed: 22312_10629
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 78588_275074, Changed: 10629_79594
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 46318_282965, Changed: 79594_299193
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79127_285252, Changed: 299193_303596
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 293419_293412, Changed: 303596_303597
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 246473_293419, Changed: 303597_77316
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 79594_299193, Changed: 77316_77317
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 301677_301676, Changed: 77317_21793
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 216589_301677, Changed: 21793_75455
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 299193_303596, Changed: 75455_79117
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 303596_303597, Changed: 79117_78588
+Row 13 (Segment: Hempstead Rd. SB (BW-8 to IH-610)): Original: 80012_307950, Changed: 78588_275074
+Row 14 (Segment: IH 45 EB (IH-45 to SH 35)): Original: 78714_21940, Changed: 81532_78714
+Row 14 (Segment: IH 45 EB (IH-45 to SH 35)): Original: 81532_78714, Changed: 78714_21940
+Row 14 (Segment: IH 45 EB (IH-45 to SH 35)): Original: 105535_99334, Changed: 21940_105535
+Row 14 (Segment: IH 45 EB (IH-45 to SH 35)): Original: 21940_105535, Changed: 105535_99334
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 77234_22101, Changed: 21991_107171
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 77041_68415, Changed: 107171_77234
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 22101_77041, Changed: 77234_22101
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 107171_77234, Changed: 22101_77041
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 79417_78179, Changed: 77041_68415
+Row 15 (Segment: IH 45 EB (SH 35 to Griggs Rd)): Original: 21991_107171, Changed: 79417_78179
+Row 18 (Segment: IH 45 EB HOV (SH 35 to Griggs Rd)): Original: 14013_21806, Changed: 19586_14013
+Row 18 (Segment: IH 45 EB HOV (SH 35 to Griggs Rd)): Original: 19586_14013, Changed: 14013_21806
+Row 18 (Segment: IH 45 EB HOV (SH 35 to Griggs Rd)): Original: 21364_81385, Changed: 21806_21364
+Row 18 (Segment: IH 45 EB HOV (SH 35 to Griggs Rd)): Original: 21806_21364, Changed: 21364_81385
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 17572_16831, Changed: 282743_17572
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 16831_16832, Changed: 17572_16831
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 282743_17572, Changed: 16831_16832
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 282861_23658, Changed: 16832_282861
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 23658_23992, Changed: 282861_23658
+Row 19 (Segment: IH 45 WB (Griggs Rd to SH 35)): Original: 16832_282861, Changed: 23658_23992
+Row 21 (Segment: IH 45 WB (SH 35 to IH-45)): Original: 287413_16661, Changed: 23410_287413
+Row 21 (Segment: IH 45 WB (SH 35 to IH-45)): Original: 16661_181627, Changed: 287413_16661
+Row 21 (Segment: IH 45 WB (SH 35 to IH-45)): Original: 23410_287413, Changed: 16661_181627
+Row 22 (Segment: IH 45 WB HOV (Griggs Rd to SH 35)): Original: 21806_14013, Changed: 81385_21364
+Row 22 (Segment: IH 45 WB HOV (Griggs Rd to SH 35)): Original: 14013_19586, Changed: 21364_21806
+Row 22 (Segment: IH 45 WB HOV (Griggs Rd to SH 35)): Original: 81385_21364, Changed: 21806_14013
+Row 22 (Segment: IH 45 WB HOV (Griggs Rd to SH 35)): Original: 21364_21806, Changed: 14013_19586
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 11788_11076, Changed: 397153_396543
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 354422_11788, Changed: 396543_396924
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 87669_12708, Changed: 396924_398671
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 87675_87669, Changed: 398671_398672
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 96502_87675, Changed: 398672_398988
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 11076_96502, Changed: 398988_396993
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 380303_345608, Changed: 396993_397659
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 345608_354422, Changed: 397659_397655
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 396868_380303, Changed: 397655_399331
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 397153_396543, Changed: 399331_397451
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 397452_396868, Changed: 397451_397452
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 396543_396924, Changed: 397452_396868
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 398988_396993, Changed: 396868_380303
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 399331_397451, Changed: 380303_345608
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 397451_397452, Changed: 345608_354422
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 397659_397655, Changed: 354422_11788
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 396993_397659, Changed: 11788_11076
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 396924_398671, Changed: 11076_96502
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 398671_398672, Changed: 96502_87675
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 398672_398988, Changed: 87675_87669
+Row 24 (Segment: IH-10 EB (Brazos River to SH 99 - W. Grand Pkwy)): Original: 397655_399331, Changed: 87669_12708
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 257103_10055, Changed: 43153_97513
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 87346_11115, Changed: 97513_63152
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 11115_11432, Changed: 63152_91799
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 184981_42075, Changed: 91799_45860
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 91799_45860, Changed: 45860_96125
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 97513_63152, Changed: 96125_96126
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 130685_79770, Changed: 96126_184981
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 97317_87346, Changed: 184981_42075
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 63152_91799, Changed: 42075_97317
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 45860_96125, Changed: 97317_87346
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 96125_96126, Changed: 87346_11115
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 42075_97317, Changed: 11115_11432
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 43153_97513, Changed: 11432_101880
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 11432_101880, Changed: 101880_257103
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 10055_130685, Changed: 257103_10055
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 96126_184981, Changed: 10055_130685
+Row 25 (Segment: IH-10 EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 101880_257103, Changed: 130685_79770
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 10071_10064, Changed: 43323_10071
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 43323_10071, Changed: 10071_10064
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 221190_10677, Changed: 10064_12296
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 10677_12032, Changed: 12296_221190
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 10064_12296, Changed: 221190_10677
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 129708_14349, Changed: 10677_12032
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 14349_21634, Changed: 12032_43581
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 12032_43581, Changed: 43581_129708
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 21634_122439, Changed: 129708_14349
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 43581_129708, Changed: 14349_21634
+Row 26 (Segment: IH-10 EB (BW-8 to State Spur 330)): Original: 12296_221190, Changed: 21634_122439
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 450581_446028, Changed: 448675_449081
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446028_446030, Changed: 449081_447151
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 450243_446096, Changed: 447151_446817
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 448351_446240, Changed: 446817_448351
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446030_446643, Changed: 448351_446240
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446643_446727, Changed: 446240_450243
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 447151_446817, Changed: 450243_446096
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 449081_447151, Changed: 446096_449910
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 449156_447451, Changed: 449910_447687
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 449910_447687, Changed: 447687_450293
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446817_448351, Changed: 450293_450384
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446727_448614, Changed: 450384_450579
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 447451_448781, Changed: 450579_450581
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 448781_448832, Changed: 450581_446028
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 448675_449081, Changed: 446028_446030
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 448614_449156, Changed: 446030_446643
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446096_449910, Changed: 446643_446727
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 446240_450243, Changed: 446727_448614
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 447687_450293, Changed: 448614_449156
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 450293_450384, Changed: 449156_447451
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 450384_450579, Changed: 447451_448781
+Row 27 (Segment: IH-10 EB (Grand Parkway to SH-124)): Original: 450579_450581, Changed: 448781_448832
+Row 28 (Segment: IH-10 EB (IH-45 to IH-69)): Original: 13872_12967, Changed: 10674_109813
+Row 28 (Segment: IH-10 EB (IH-45 to IH-69)): Original: 12967_46222, Changed: 13872_12967
+Row 28 (Segment: IH-10 EB (IH-45 to IH-69)): Original: 46222_46223, Changed: 12967_46222
+Row 28 (Segment: IH-10 EB (IH-45 to IH-69)): Original: 10674_109813, Changed: 46222_46223
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 12481_10026, Changed: 13070_116759
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 166832_10225, Changed: 116759_116760
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 87961_11304, Changed: 116760_87961
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 11304_12481, Changed: 87961_11304
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 90764_43019, Changed: 11304_12481
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 10225_86886, Changed: 12481_10026
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 116760_87961, Changed: 10026_90764
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 86886_88221, Changed: 90764_43019
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 10026_90764, Changed: 43019_166832
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 13070_116759, Changed: 166832_10225
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 116759_116760, Changed: 10225_86886
+Row 29 (Segment: IH-10 EB (IH-610 to BW-8)): Original: 43019_166832, Changed: 86886_88221
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 90809_10178, Changed: 86723_90809
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 12836_10322, Changed: 90809_10178
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 136474_10400, Changed: 10178_12836
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 10400_10531, Changed: 12836_10322
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 14501_10985, Changed: 10322_268605
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 268606_12661, Changed: 268605_268606
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 10178_12836, Changed: 268606_12661
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 10531_14501, Changed: 12661_166701
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 10985_21690, Changed: 166701_166702
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 86723_90809, Changed: 166702_136474
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 166702_136474, Changed: 136474_10400
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 12661_166701, Changed: 10400_10531
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 166701_166702, Changed: 10531_14501
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 10322_268605, Changed: 14501_10985
+Row 30 (Segment: IH-10 EB (IH-610 to IH-45 Downtown)): Original: 268605_268606, Changed: 10985_21690
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 12688_10286, Changed: 11092_12474
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 160256_10370, Changed: 12474_233899
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 10370_10464, Changed: 233899_92537
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 10464_11241, Changed: 92537_92533
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 43571_11642, Changed: 92533_106896
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 11241_12379, Changed: 106896_106890
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 11092_12474, Changed: 106890_43571
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 11642_12688, Changed: 43571_11642
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 106890_43571, Changed: 11642_12688
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 87998_87992, Changed: 12688_10286
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 12379_87998, Changed: 10286_160256
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 92537_92533, Changed: 160256_10370
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 233899_92537, Changed: 10370_10464
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 106896_106890, Changed: 10464_11241
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 92533_106896, Changed: 11241_12379
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 10286_160256, Changed: 12379_87998
+Row 31 (Segment: IH-10 EB (IH-69 to IH-610)): Original: 12474_233899, Changed: 87998_87992
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 12900_10148, Changed: 10107_204828
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 95744_11509, Changed: 204828_193788
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 11509_13065, Changed: 12900_10148
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 13065_43152, Changed: 10148_206397
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 204828_193788, Changed: 95744_11509
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 10107_204828, Changed: 11509_13065
+Row 32 (Segment: IH-10 EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 10148_206397, Changed: 13065_43152
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 91226_12464, Changed: 11178_41771
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 87789_12600, Changed: 41771_305489
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 67219_41005, Changed: 305489_305490
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 41005_41006, Changed: 305490_91226
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 11178_41771, Changed: 91226_12464
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 119720_42032, Changed: 12464_119720
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 12600_67219, Changed: 119720_42032
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 41006_90040, Changed: 87789_12600
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 305490_91226, Changed: 12600_67219
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 12464_119720, Changed: 67219_41005
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 41771_305489, Changed: 41005_41006
+Row 33 (Segment: IH-10 EB (SH 99 - W. Grand Pkwy to SH 6)): Original: 305489_305490, Changed: 41006_90040
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 14253_10014, Changed: 42404_12436
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 12627_11469, Changed: 12436_38837
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 42404_12436, Changed: 38837_12756
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 38837_12756, Changed: 12627_11469
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 41735_12919, Changed: 11469_14253
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 241383_13960, Changed: 14253_10014
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 13960_14019, Changed: 10014_41734
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 11469_14253, Changed: 41734_41735
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 12436_38837, Changed: 41735_12919
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 10014_41734, Changed: 12919_42236
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 41734_41735, Changed: 42236_241383
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 12919_42236, Changed: 241383_13960
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 42236_241383, Changed: 13960_14019
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 448406_446933, Changed: 14019_447438
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 446933_446945, Changed: 447438_448406
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 14019_447438, Changed: 448406_446933
+Row 34 (Segment: IH-10 EB (State Spur 330 to Grand Parkway)): Original: 447438_448406, Changed: 446933_446945
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 283828_16881, Changed: 281958_283399
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 285163_17377, Changed: 283399_17680
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 283399_17680, Changed: 17680_282208
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 284425_23713, Changed: 282208_284383
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 17680_282208, Changed: 284383_283827
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 281958_283399, Changed: 283827_283828
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 284383_283827, Changed: 283828_16881
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 283827_283828, Changed: 16881_284425
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 282208_284383, Changed: 284425_23713
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 16881_284425, Changed: 23713_285163
+Row 35 (Segment: IH-10 WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 23713_285163, Changed: 285163_17377
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 283796_16288, Changed: 16164_26564
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 284501_16656, Changed: 26564_268784
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 17050_16713, Changed: 268784_268777
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 17685_17027, Changed: 268777_283253
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 185596_17050, Changed: 283253_185596
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 16164_26564, Changed: 185596_17050
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 283253_185596, Changed: 17050_16713
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 268784_268777, Changed: 16713_283795
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 26564_268784, Changed: 283795_283796
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 268777_283253, Changed: 283796_16288
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 16713_283795, Changed: 16288_284501
+Row 36 (Segment: IH-10 WB (BW-8 to IH-610)): Original: 283795_283796, Changed: 284501_16656
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 17202_15503, Changed: 447594_446730
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 15503_15504, Changed: 446730_446884
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 157196_16121, Changed: 446884_283640
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 17142_16387, Changed: 283640_277157
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 19283_16419, Changed: 277157_157196
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 16877_16429, Changed: 157196_16121
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 16429_16477, Changed: 16121_16877
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 16121_16877, Changed: 16877_16429
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 16477_17142, Changed: 16429_16477
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 282221_17202, Changed: 16477_17142
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 15504_19283, Changed: 17142_16387
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 277157_157196, Changed: 16387_282221
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 283640_277157, Changed: 282221_17202
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 16387_282221, Changed: 17202_15503
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 446884_283640, Changed: 15503_15504
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 447594_446730, Changed: 15504_19283
+Row 37 (Segment: IH-10 WB (Grand Parkway - State Spur 330)): Original: 446730_446884, Changed: 19283_16419
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 173365_16134, Changed: 282991_281927
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 202556_16302, Changed: 281927_287168
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 16302_16303, Changed: 287168_16358
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 287168_16358, Changed: 16358_173365
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 16134_16373, Changed: 173365_16134
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 16303_16959, Changed: 16134_16373
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 16358_173365, Changed: 17661_281855
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 268682_202556, Changed: 281855_285797
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 268687_268682, Changed: 285797_283312
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 283313_268687, Changed: 283312_283313
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 17661_281855, Changed: 283313_268687
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 282991_281927, Changed: 268687_268682
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 285797_283312, Changed: 268682_202556
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 283312_283313, Changed: 202556_16302
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 281855_285797, Changed: 16302_16303
+Row 38 (Segment: IH-10 WB (IH-45 Downtown to IH-610)): Original: 281927_287168, Changed: 16303_16959
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 17234_14090, Changed: 283711_74306
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 284560_16590, Changed: 74306_284560
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 16590_16619, Changed: 284560_16590
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 223909_17234, Changed: 16590_16619
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 282021_17352, Changed: 16619_23588
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 16619_23588, Changed: 23588_183014
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 23737_23601, Changed: 183014_284752
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 23601_23602, Changed: 284752_223908
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 285282_23737, Changed: 223908_223909
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 283711_74306, Changed: 223909_17234
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 23588_183014, Changed: 17234_14090
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 284752_223908, Changed: 14090_282021
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 223908_223909, Changed: 282021_17352
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 14090_282021, Changed: 17352_285282
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 23602_283600, Changed: 285282_23737
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 74306_284560, Changed: 23737_23601
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 183014_284752, Changed: 23601_23602
+Row 39 (Segment: IH-10 WB (IH-610 to BW 8 - W. Sam Houston Tollway)): Original: 17352_285282, Changed: 23602_283600
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 82339_16622, Changed: 284366_17099
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 103334_16700, Changed: 17099_23470
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 18991_16865, Changed: 23470_103334
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 284366_17099, Changed: 103334_16700
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 19115_17350, Changed: 16700_19115
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 284801_17660, Changed: 19115_17350
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 16622_18991, Changed: 17350_285475
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 16700_19115, Changed: 285475_285476
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 17099_23470, Changed: 285476_82339
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 285476_82339, Changed: 82339_16622
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 23470_103334, Changed: 16622_18991
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 16865_284801, Changed: 18991_16865
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 17350_285475, Changed: 16865_284801
+Row 40 (Segment: IH-10 WB (IH-610 to IH-69)): Original: 285475_285476, Changed: 284801_17660
+Row 41 (Segment: IH-10 WB (IH-69 to IH-45)): Original: 283586_19120, Changed: 283593_283586
+Row 41 (Segment: IH-10 WB (IH-69 to IH-45)): Original: 32313_32306, Changed: 283586_19120
+Row 41 (Segment: IH-10 WB (IH-69 to IH-45)): Original: 283709_32313, Changed: 19120_283709
+Row 41 (Segment: IH-10 WB (IH-69 to IH-45)): Original: 283593_283586, Changed: 283709_32313
+Row 41 (Segment: IH-10 WB (IH-69 to IH-45)): Original: 19120_283709, Changed: 32313_32306
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 17381_16841, Changed: 17105_230803
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 284585_17006, Changed: 230803_284339
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 17006_17381, Changed: 284339_17610
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 284339_17610, Changed: 17610_283849
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 17105_230803, Changed: 283849_283850
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 283410_283239, Changed: 269218_284591
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16841_283410, Changed: 284591_284585
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 17610_283849, Changed: 284585_17006
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 283849_283850, Changed: 17006_17381
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 230803_284339, Changed: 17381_16841
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 284591_284585, Changed: 16841_283410
+Row 42 (Segment: IH-10 WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 269218_284591, Changed: 283410_283239
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 398963_6001, Changed: 17018_17019
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 17018_17019, Changed: 17019_69016
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 17019_69016, Changed: 69016_69017
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 69016_69017, Changed: 69017_284477
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 69017_284477, Changed: 284477_346263
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 284477_346263, Changed: 346263_367754
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 346263_367754, Changed: 360841_399697
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 399316_396905, Changed: 396250_398758
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 400052_398512, Changed: 397465_399315
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 396250_398758, Changed: 399315_399316
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 398512_398963, Changed: 399316_396905
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 397465_399315, Changed: 399039_400051
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 399315_399316, Changed: 400051_400052
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 360841_399697, Changed: 400052_398512
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 399039_400051, Changed: 398512_398963
+Row 43 (Segment: IH-10 WB (SH 99 - W. Grand Pkwy to Brazos River)): Original: 400051_400052, Changed: 398963_6001
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 448313_446013, Changed: 448826_446859
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446534_446511, Changed: 446859_447480
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 448849_446534, Changed: 447480_447529
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446894_446716, Changed: 447529_447531
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446822_446758, Changed: 447531_448317
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 447260_446822, Changed: 448317_448313
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446758_446842, Changed: 448313_446013
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 448826_446859, Changed: 446013_449750
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 450258_446894, Changed: 449750_448849
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446511_447260, Changed: 448849_446534
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446859_447480, Changed: 446534_446511
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 447480_447529, Changed: 446511_447260
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 447529_447531, Changed: 447260_446822
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 448317_448313, Changed: 446822_446758
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 447531_448317, Changed: 446758_446842
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 448749_448746, Changed: 446842_450258
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446716_448749, Changed: 450258_446894
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 449750_448849, Changed: 446894_446716
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446013_449750, Changed: 446716_448749
+Row 44 (Segment: IH-10 WB (SH-124 to Grand Parkway)): Original: 446842_450258, Changed: 448749_448746
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 16638_16595, Changed: 16519_17637
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 281880_16638, Changed: 17637_281880
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 16519_17637, Changed: 281880_16638
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 17767_17685, Changed: 16638_16595
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 308984_17767, Changed: 16595_284166
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 17637_281880, Changed: 72785_308983
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 16595_284166, Changed: 308983_308984
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 72785_308983, Changed: 308984_17767
+Row 45 (Segment: IH-10 WB (State Spur 330 to BW-8)): Original: 308983_308984, Changed: 17767_17685
+Row 46 (Segment: IH-45 NB (Andrew St. to IH-10)): Original: 253169_14512, Changed: 11850_274985
+Row 46 (Segment: IH-45 NB (Andrew St. to IH-10)): Original: 14512_267598, Changed: 253169_14512
+Row 46 (Segment: IH-45 NB (Andrew St. to IH-10)): Original: 11850_274985, Changed: 14512_267598
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 24974_15164, Changed: 283210_24275
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 15164_15897, Changed: 24275_24974
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 283210_24275, Changed: 24974_15164
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 24275_24974, Changed: 15164_15897
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 283140_188605, Changed: 15897_283140
+Row 47 (Segment: IH-45 NB (IH-10 to IH-610)): Original: 15897_283140, Changed: 283140_188605
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 23895_23851, Changed: 18337_32766
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 282363_23895, Changed: 32766_23919
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 32766_23919, Changed: 23919_282363
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 23851_24024, Changed: 282363_23895
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 18337_32766, Changed: 23895_23851
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 24024_223189, Changed: 23851_24024
+Row 48 (Segment: IH-45 NB (IH-610 to W. Parker Rd)): Original: 23919_282363, Changed: 24024_223189
+Row 50 (Segment: IH-45 NB HOV (IH-610 to W. Parker Rd.)): Original: 21112_14202, Changed: 282734_21112
+Row 50 (Segment: IH-45 NB HOV (IH-610 to W. Parker Rd.)): Original: 282734_21112, Changed: 21112_14202
+Row 50 (Segment: IH-45 NB HOV (IH-610 to W. Parker Rd.)): Original: 283108_23345, Changed: 14202_283107
+Row 50 (Segment: IH-45 NB HOV (IH-610 to W. Parker Rd.)): Original: 14202_283107, Changed: 283107_283108
+Row 50 (Segment: IH-45 NB HOV (IH-610 to W. Parker Rd.)): Original: 283107_283108, Changed: 283108_23345
+Row 51 (Segment: IH-45 SB (IH-10 to Andrew St.)): Original: 286258_20929, Changed: 20095_277121
+Row 51 (Segment: IH-45 SB (IH-10 to Andrew St.)): Original: 20929_267124, Changed: 277121_286258
+Row 51 (Segment: IH-45 SB (IH-10 to Andrew St.)): Original: 20095_277121, Changed: 286258_20929
+Row 51 (Segment: IH-45 SB (IH-10 to Andrew St.)): Original: 277121_286258, Changed: 20929_267124
+Row 52 (Segment: IH-45 SB (IH-610 to IH-10)): Original: 300418_78519, Changed: 20201_300424
+Row 52 (Segment: IH-45 SB (IH-610 to IH-10)): Original: 78519_281057, Changed: 300424_300418
+Row 52 (Segment: IH-45 SB (IH-610 to IH-10)): Original: 300424_300418, Changed: 300418_78519
+Row 52 (Segment: IH-45 SB (IH-610 to IH-10)): Original: 20201_300424, Changed: 78519_281057
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 79808_20330, Changed: 21628_78727
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 21851_21435, Changed: 78727_21851
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 78727_21851, Changed: 21851_21435
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 20330_21976, Changed: 21435_79856
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 22293_22064, Changed: 79856_79808
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 21976_22293, Changed: 79808_20330
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 21628_78727, Changed: 20330_21976
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 79856_79808, Changed: 21976_22293
+Row 53 (Segment: IH-45 SB (W. Parker Rd to IH-610)): Original: 21435_79856, Changed: 22293_22064
+Row 54 (Segment: IH-45 SB HOV (IH-610 to IH-10)): Original: 64056_64055, Changed: 13300_64056
+Row 54 (Segment: IH-45 SB HOV (IH-610 to IH-10)): Original: 13300_64056, Changed: 64056_64055
+Row 55 (Segment: IH-45 SB HOV (W. Parker Rd. to IH-610)): Original: 283107_14202, Changed: 283108_283107
+Row 55 (Segment: IH-45 SB HOV (W. Parker Rd. to IH-610)): Original: 14202_21112, Changed: 283107_14202
+Row 55 (Segment: IH-45 SB HOV (W. Parker Rd. to IH-610)): Original: 282734_24545, Changed: 14202_21112
+Row 55 (Segment: IH-45 SB HOV (W. Parker Rd. to IH-610)): Original: 283108_283107, Changed: 282734_24545
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 102011_10881, Changed: 23319_279056
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 12014_12011, Changed: 279056_279055
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 247129_12014, Changed: 279055_247130
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 103238_12075, Changed: 247130_247129
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 97753_21220, Changed: 247129_12014
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 42167_41879, Changed: 12014_12011
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 21220_42271, Changed: 42167_41879
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 104906_97753, Changed: 41879_104906
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 42271_102011, Changed: 104906_97753
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 10881_103238, Changed: 97753_21220
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 41879_104906, Changed: 21220_42271
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 247130_247129, Changed: 42271_102011
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 279055_247130, Changed: 102011_10881
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 279056_279055, Changed: 10881_103238
+Row 56 (Segment: IH-610 EB (IH-10 to IH-45)): Original: 23319_279056, Changed: 103238_12075
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 180012_21529, Changed: 10156_139915
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 121824_97051, Changed: 139915_121824
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 21529_97427, Changed: 121824_97051
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 139915_121824, Changed: 97051_180012
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 10156_139915, Changed: 180012_21529
+Row 57 (Segment: IH-610 EB (IH-45 to IH-69)): Original: 97051_180012, Changed: 21529_97427
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 209461_11040, Changed: 97428_12382
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 11040_11163, Changed: 12382_209461
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 97428_12382, Changed: 209461_11040
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 42402_21334, Changed: 11040_11163
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 81308_22029, Changed: 11163_87776
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 97250_42402, Changed: 87776_80088
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 21334_68736, Changed: 80088_97250
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 87776_80088, Changed: 97250_42402
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 22029_81108, Changed: 42402_21334
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 68736_81308, Changed: 21334_68736
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 11163_87776, Changed: 68736_81308
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 80088_97250, Changed: 81308_22029
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 12382_209461, Changed: 22029_81108
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 216368_216364, Changed: 81108_216368
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 81108_216368, Changed: 216368_216364
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 280847_279577, Changed: 216364_280847
+Row 58 (Segment: IH-610 EB (IH-69 to IH-10)): Original: 216364_280847, Changed: 280847_279577
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 24375_14109, Changed: 23183_23190
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 24850_14440, Changed: 23190_24959
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 23183_23190, Changed: 22799_24622
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 64378_24375, Changed: 24622_64378
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 22799_24622, Changed: 64378_24375
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 14109_24850, Changed: 24375_14109
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 23190_24959, Changed: 14109_24850
+Row 59 (Segment: IH-610 NB (IH-69 to IH-10)): Original: 24622_64378, Changed: 24850_14440
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 24226_13107, Changed: 25013_22433
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 22818_21498, Changed: 22433_22818
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 25013_22433, Changed: 22818_21498
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 22433_22818, Changed: 21498_23202
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 21498_23202, Changed: 23202_24226
+Row 60 (Segment: IH-610 NB (SH-225 to IH-10)): Original: 23202_24226, Changed: 24226_13107
+Row 61 (Segment: IH-610 SB (IH-10 to IH-69)): Original: 289218_18542, Changed: 16092_273078
+Row 61 (Segment: IH-610 SB (IH-10 to IH-69)): Original: 18542_20876, Changed: 20013_289218
+Row 61 (Segment: IH-610 SB (IH-10 to IH-69)): Original: 16092_273078, Changed: 289218_18542
+Row 61 (Segment: IH-610 SB (IH-10 to IH-69)): Original: 20876_274244, Changed: 18542_20876
+Row 61 (Segment: IH-610 SB (IH-10 to IH-69)): Original: 20013_289218, Changed: 20876_274244
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 292860_10092, Changed: 17856_19775
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 19359_19353, Changed: 19775_19776
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 10092_19359, Changed: 19776_292860
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 17856_19775, Changed: 292860_10092
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 19775_19776, Changed: 10092_19359
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 99358_78352, Changed: 19359_19353
+Row 62 (Segment: IH-610 SB (IH-10 to SH-225)): Original: 19776_292860, Changed: 99358_78352
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 138130_14835, Changed: 24563_24250
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 23807_16436, Changed: 24250_283205
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 284392_17054, Changed: 283205_138130
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 285913_17133, Changed: 138130_14835
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 284481_23807, Changed: 23748_285913
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 24563_24250, Changed: 285913_17133
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 283205_138130, Changed: 17133_283407
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 24250_283205, Changed: 283407_287124
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 17133_283407, Changed: 287124_284113
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 287124_284113, Changed: 284113_284392
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 284113_284392, Changed: 284392_17054
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 23748_285913, Changed: 284481_23807
+Row 63 (Segment: IH-610 WB (IH-10 to IH-69)): Original: 283407_287124, Changed: 23807_16436
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 284538_16578, Changed: 19227_285862
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 284342_17093, Changed: 285862_283377
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 309775_18342, Changed: 283377_284538
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 286179_18746, Changed: 284538_16578
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 275091_20895, Changed: 16578_84965
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 16578_84965, Changed: 84965_284342
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 275095_275091, Changed: 284342_17093
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 18342_275095, Changed: 17093_284018
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 285862_283377, Changed: 284018_286179
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 17093_284018, Changed: 286179_18746
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 84965_284342, Changed: 18746_309775
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 283377_284538, Changed: 309775_18342
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 19227_285862, Changed: 18342_275095
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 284018_286179, Changed: 275095_275091
+Row 64 (Segment: IH-610 WB (IH-45 to IH-10)): Original: 18746_309775, Changed: 275091_20895
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 284702_16368, Changed: 274718_286723
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 16368_16480, Changed: 286723_283434
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 16480_282072, Changed: 283434_284701
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 282072_282073, Changed: 284701_284702
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 286723_283434, Changed: 284702_16368
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 283434_284701, Changed: 16368_16480
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 284701_284702, Changed: 16480_282072
+Row 65 (Segment: IH-610 WB (IH-69 to IH-45)): Original: 274718_286723, Changed: 282072_282073
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 10374_10368, Changed: 10314_43352
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 88528_10374, Changed: 43352_97834
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 10962_10731, Changed: 97834_87989
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 178484_10962, Changed: 87989_87983
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 10368_21043, Changed: 87983_178484
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 10314_43352, Changed: 178484_10962
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 87989_87983, Changed: 10962_10731
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 97834_87989, Changed: 10731_88528
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 10731_88528, Changed: 88528_10374
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 43352_97834, Changed: 10374_10368
+Row 66 (Segment: IH-69 EB (IH-610 to SH-288)): Original: 87983_178484, Changed: 10368_21043
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 128243_13495, Changed: 24947_23272
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 13495_13535, Changed: 23272_24310
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 282855_14223, Changed: 24310_128243
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 14223_15747, Changed: 128243_13495
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 24947_23272, Changed: 13495_13535
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 23272_24310, Changed: 13535_282855
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 24310_128243, Changed: 282855_14223
+Row 67 (Segment: IH-69 NB (IH-10 to IH-610)): Original: 13535_282855, Changed: 14223_15747
+Row 68 (Segment: IH-69 NB (IH-45 to IH-10)): Original: 253020_161071, Changed: 241208_253020
+Row 68 (Segment: IH-69 NB (IH-45 to IH-10)): Original: 161071_245688, Changed: 253020_161071
+Row 68 (Segment: IH-69 NB (IH-45 to IH-10)): Original: 241208_253020, Changed: 161071_245688
+Row 69 (Segment: IH-69 NB (IH-610 to Parker Rd)): Original: 22598_15879, Changed: 15742_24249
+Row 69 (Segment: IH-69 NB (IH-610 to Parker Rd)): Original: 24962_22598, Changed: 24249_24962
+Row 69 (Segment: IH-69 NB (IH-610 to Parker Rd)): Original: 15742_24249, Changed: 24962_22598
+Row 69 (Segment: IH-69 NB (IH-610 to Parker Rd)): Original: 24249_24962, Changed: 22598_15879
+Row 70 (Segment: IH-69 NB (US 288 to IH-45)): Original: 239544_11688, Changed: 239543_239544
+Row 70 (Segment: IH-69 NB (US 288 to IH-45)): Original: 239543_239544, Changed: 239544_11688
+Row 71 (Segment: IH-69 NB HOV (IH-10 to IH-610)): Original: 128243_13315, Changed: 13315_13581
+Row 71 (Segment: IH-69 NB HOV (IH-10 to IH-610)): Original: 13315_13581, Changed: 13581_85139
+Row 72 (Segment: IH-69 NB HOV (IH-610 to Parker Rd.)): Original: 271051_16102, Changed: 14086_271050
+Row 72 (Segment: IH-69 NB HOV (IH-610 to Parker Rd.)): Original: 14086_271050, Changed: 271050_271051
+Row 72 (Segment: IH-69 NB HOV (IH-610 to Parker Rd.)): Original: 271050_271051, Changed: 271051_16102
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 19406_19010, Changed: 19238_279406
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 302591_19406, Changed: 279406_20488
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 279406_20488, Changed: 20488_274927
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 308945_272739, Changed: 274927_308945
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 20488_274927, Changed: 308945_272739
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 19238_279406, Changed: 272739_302591
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 272739_302591, Changed: 302591_19406
+Row 75 (Segment: IH-69 SB (IH-610 to IH-10)): Original: 274927_308945, Changed: 19406_19010
+Row 76 (Segment: IH-69 SB (Parker Rd to IH-610)): Original: 20498_15996, Changed: 279955_273378
+Row 76 (Segment: IH-69 SB (Parker Rd to IH-610)): Original: 20700_20183, Changed: 273378_20498
+Row 76 (Segment: IH-69 SB (Parker Rd to IH-610)): Original: 273378_20498, Changed: 20498_15996
+Row 76 (Segment: IH-69 SB (Parker Rd to IH-610)): Original: 279955_273378, Changed: 20700_20183
+Row 78 (Segment: IH-69 SB HOV (Parker Rd. to IH-610)): Original: 13900_12168, Changed: 268668_268669
+Row 78 (Segment: IH-69 SB HOV (Parker Rd. to IH-610)): Original: 14086_13900, Changed: 268669_14086
+Row 78 (Segment: IH-69 SB HOV (Parker Rd. to IH-610)): Original: 268669_14086, Changed: 14086_13900
+Row 78 (Segment: IH-69 SB HOV (Parker Rd. to IH-610)): Original: 268668_268669, Changed: 13900_12168
+Row 79 (Segment: IH-69 Toll EB (IH-610 to SH-288)): Original: 279563_13814, Changed: 10838_282411
+Row 79 (Segment: IH-69 Toll EB (IH-610 to SH-288)): Original: 283892_18845, Changed: 282411_23789
+Row 79 (Segment: IH-69 Toll EB (IH-610 to SH-288)): Original: 282411_23789, Changed: 23789_284131
+Row 79 (Segment: IH-69 Toll EB (IH-610 to SH-288)): Original: 10838_28414, Changed: 284131_283893
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 17076_16451, Changed: 16233_23634
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 283714_17076, Changed: 23634_23629
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 171915_17144, Changed: 23629_282098
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 16451_17197, Changed: 282098_17781
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 282098_17781, Changed: 17781_283714
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 23634_23629, Changed: 283714_17076
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 16233_23634, Changed: 17076_16451
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 281867_171915, Changed: 16451_17197
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 282110_281867, Changed: 17197_282110
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 23629_282098, Changed: 282110_281867
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 17197_282110, Changed: 281867_171915
+Row 81 (Segment: IH-69 WB (SH-288 to IH-610)): Original: 17781_283714, Changed: 171915_17144
+Row 82 (Segment: Katy Tollway EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 257102_63955, Changed: 21194_257102
+Row 82 (Segment: Katy Tollway EB (BW 8 - W. Sam Houston Tollway to IH-610)): Original: 21194_257102, Changed: 257102_63955
+Row 83 (Segment: Katy Tollway EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 10260_10255, Changed: 12933_10260
+Row 83 (Segment: Katy Tollway EB (SH 6 to BW 8 - W. Sam Houston Tollway)): Original: 12933_10260, Changed: 10260_10255
+Row 85 (Segment: Katy Tollway WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 284534_282156, Changed: 23452_285408
+Row 85 (Segment: Katy Tollway WB (BW 8 - W. Sam Houston Tollway to SH 6)): Original: 23452_285408, Changed: 284534_282156
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16845_16842, Changed: 16872_16870
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16849_16845, Changed: 16870_16868
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16853_16848, Changed: 16868_16864
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16848_16849, Changed: 16864_16862
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16855_16852, Changed: 16862_16860
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16852_16853, Changed: 16860_16857
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16860_16857, Changed: 16855_16852
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16862_16860, Changed: 16852_16853
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16864_16862, Changed: 16853_16848
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16868_16864, Changed: 16848_16849
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16870_16868, Changed: 16849_16845
+Row 87 (Segment: Katy Tollway WB (SH 6 to SH 99 - W. Grand Pkwy)): Original: 16872_16870, Changed: 16845_16842
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 113427_18062, Changed: 56557_301019
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 82018_20635, Changed: 301019_301020
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 49596_35616, Changed: 301020_130004
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 295701_49596, Changed: 130004_295694
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 35616_82013, Changed: 295694_295701
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 82013_82018, Changed: 295701_49596
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 150019_113427, Changed: 49596_35616
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 301020_130004, Changed: 35616_82013
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 296506_275987, Changed: 82013_82018
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 130004_295694, Changed: 82018_20635
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 295694_295701, Changed: 20635_296506
+Row 88 (Segment: SH 6 NB (Westpark Dr. to IH-10)): Original: 20635_296506, Changed: 296506_275987
+Row 89 (Segment: SH 6 SB (IH-10 to Westpark Dr.)): Original: 56557_13713, Changed: 113427_150019
+Row 89 (Segment: SH 6 SB (IH-10 to Westpark Dr.)): Original: 82013_35616, Changed: 150019_275986
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 242603_13935, Changed: 73211_198721
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 245801_16055, Changed: 14303_23333
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 14303_23333, Changed: 23333_242603
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 73211_198721, Changed: 242603_13935
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 23333_242603, Changed: 13935_245801
+Row 90 (Segment: SH 99 - Grand Pkwy NB (IH-10 to FM 529)): Original: 13935_245801, Changed: 245801_16055
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 204640_14111, Changed: 349447_362543
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 14111_14112, Changed: 362543_346523
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 360045_24693, Changed: 346523_395264
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 14112_60880, Changed: 395264_360045
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 24693_204640, Changed: 360045_24693
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 362543_346523, Changed: 24693_204640
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 395264_360045, Changed: 204640_14111
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 349447_362543, Changed: 14111_14112
+Row 91 (Segment: SH 99 - Grand Pkwy NB (S. Fry Rd. to IH-10)): Original: 346523_395264, Changed: 14112_60880
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 23328_18253, Changed: 18897_18311
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 18897_18311, Changed: 18311_278199
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 279943_20199, Changed: 23328_18253
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 20199_20795, Changed: 18253_279943
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 278199_23328, Changed: 279943_20199
+Row 92 (Segment: SH 99 - Grand Pkwy SB (FM 529 to IH-10)): Original: 18311_278199, Changed: 20199_20795
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 354157_353261, Changed: 281281_382591
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 388916_354157, Changed: 382591_355225
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 382591_355225, Changed: 355225_355227
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 355225_355227, Changed: 355227_388914
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 281281_382591, Changed: 388914_388916
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 355227_388914, Changed: 388916_354157
+Row 93 (Segment: SH 99 - Grand Pkwy SB (IH-10 to S. Fry Rd.)): Original: 388914_388916, Changed: 354157_353261
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 95448_18284, Changed: 13767_95448
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 13767_95448, Changed: 95448_18284
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 178769_25750, Changed: 87299_282196
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 25750_28007, Changed: 282196_178769
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 87299_282196, Changed: 178769_25750
+Row 94 (Segment: SH-6 NB ( IH-10 to W. Little York Rd.)): Original: 282196_178769, Changed: 25750_28007
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 95454_18061, Changed: 142768_178769
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 18061_18062, Changed: 178769_282196
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 87299_18284, Changed: 282196_87299
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 282196_87299, Changed: 87299_18284
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 174234_95454, Changed: 18284_174234
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 18284_174234, Changed: 174234_95454
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 142768_178769, Changed: 95454_18061
+Row 95 (Segment: SH-6 SB (W. Little York Rd. to  IH-10)): Original: 178769_282196, Changed: 18061_18062
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 89773_10432, Changed: 399064_397070
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 394785_89773, Changed: 397070_399424
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 10432_221402, Changed: 399424_396426
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 399270_355136, Changed: 396426_400018
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 355136_379034, Changed: 400018_399440
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 379034_394785, Changed: 399440_398453
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 399424_396426, Changed: 398453_397844
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 400179_396891, Changed: 397844_398046
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 399064_397070, Changed: 398046_397752
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 396891_397516, Changed: 397752_397749
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 397752_397749, Changed: 397749_400179
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 398046_397752, Changed: 400179_396891
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 398453_397844, Changed: 396891_397516
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 397844_398046, Changed: 397516_399270
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 399440_398453, Changed: 399270_355136
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 397516_399270, Changed: 355136_379034
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 397070_399424, Changed: 379034_394785
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 400018_399440, Changed: 394785_89773
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 396426_400018, Changed: 89773_10432
+Row 100 (Segment: US 90 EB (Donigan Rd to IH 10 Frontage Rd)): Original: 397749_400179, Changed: 10432_221402
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 13903_13898, Changed: 241211_252988
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 246324_13903, Changed: 252988_235304
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 252988_235304, Changed: 220529_240614
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 220529_240614, Changed: 240614_246324
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 240614_246324, Changed: 246324_13903
+Row 101 (Segment: US 90 NB (IH-10 to BW 8)): Original: 241211_252988, Changed: 13903_13898
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 13346_11828, Changed: 254396_254397
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 91796_11889, Changed: 254397_13189
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 302504_13170, Changed: 13189_13346
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 254397_13189, Changed: 13346_11828
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 65123_13279, Changed: 11828_298855
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 13189_13346, Changed: 298855_288408
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 66299_14381, Changed: 288408_91796
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 14381_65123, Changed: 91796_11889
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 288408_91796, Changed: 66299_14381
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 254396_254397, Changed: 14381_65123
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 298855_288408, Changed: 65123_13279
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 11828_298855, Changed: 13279_302504
+Row 103 (Segment: US 90 NB (IH-45 to IH-10)): Original: 13279_302504, Changed: 302504_13170
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 278854_14974, Changed: 19244_286292
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 18899_16656, Changed: 286292_18300
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 286292_18300, Changed: 18300_278065
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 279119_18899, Changed: 278065_278328
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 18300_278065, Changed: 278328_278854
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 278065_278328, Changed: 278854_14974
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 278328_278854, Changed: 14974_279119
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 14974_279119, Changed: 279119_18899
+Row 104 (Segment: US 90 SB (BW 8 to IH-10)): Original: 19244_286292, Changed: 18899_16656
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 294526_11828, Changed: 19632_99787
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 11828_13346, Changed: 99787_20882
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 189348_20774, Changed: 20882_274445
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 99787_20882, Changed: 274445_274446
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 19632_99787, Changed: 95911_299423
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 13346_189348, Changed: 299423_299424
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 254396_235474, Changed: 299424_288409
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 20774_254396, Changed: 288409_294526
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 20882_274445, Changed: 294526_11828
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 274445_274446, Changed: 11828_13346
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 299424_288409, Changed: 13346_189348
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 288409_294526, Changed: 189348_20774
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 95911_299423, Changed: 20774_254396
+Row 105 (Segment: US 90 SB (IH-10 to IH-45)): Original: 299423_299424, Changed: 254396_235474
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 379034_355136, Changed: 89773_394785
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 89773_394785, Changed: 379034_355136
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 400018_396426, Changed: 355136_399270
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 397516_396891, Changed: 399270_397516
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 399424_397070, Changed: 397516_396891
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 399270_397516, Changed: 396891_400179
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 398046_397844, Changed: 397752_398046
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 397752_398046, Changed: 398046_397844
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 399064_398050, Changed: 397844_398453
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 397844_398453, Changed: 398453_399440
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 397070_399064, Changed: 399440_400018
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 355136_399270, Changed: 400018_396426
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 398453_399440, Changed: 399424_397070
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 399440_400018, Changed: 397070_399064
+Row 107 (Segment: US 90 WB (Donigan Rd to IH 10 Frontage Rd)): Original: 396891_400179, Changed: 399064_398050
+Row 108 (Segment: US-290 NB (IH-610 to BW-8)): Original: 23374_14267, Changed: 14860_275025
+Row 108 (Segment: US-290 NB (IH-610 to BW-8)): Original: 225806_23374, Changed: 275025_225806
+Row 108 (Segment: US-290 NB (IH-610 to BW-8)): Original: 275025_225806, Changed: 225806_23374
+Row 108 (Segment: US-290 NB (IH-610 to BW-8)): Original: 14860_275025, Changed: 23374_14267
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 309799_22169, Changed: 99637_103477
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 75251_22407, Changed: 103477_309773
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 75255_75251, Changed: 309773_309799
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 22169_75255, Changed: 309799_22169
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 99637_103477, Changed: 22169_75255
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 22407_275176, Changed: 75255_75251
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 103477_309773, Changed: 75251_22407
+Row 109 (Segment: US-290 SB (BW-8 to IH-610)): Original: 309773_309799, Changed: 22407_275176
+Total changes made: 824
